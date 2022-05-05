@@ -27,7 +27,7 @@ Describe the learning objectives for the class that relate to social impacts. Co
 
 (Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?)
 
-Watch this video to learn more about why [Emma Yang](https://www.youtube.com/watch?v=7FX9kZigpjc)created the app and how it would help people with Alzheimer’s. After watching, have students write brief responses to the following questions: 
+Watch this video to learn more about why [Emma Yang](https://www.youtube.com/watch?v=7FX9kZigpjc) created the app and how it would help people with Alzheimer’s. After watching, have students write brief responses to the following questions: 
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
