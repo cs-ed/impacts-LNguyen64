@@ -48,12 +48,6 @@ Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc) After wa
 **Invention Process: Turn Your Idea into Reality**
 Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
 
-
-### Assessment
-
-Describe how you plan to assess the learning objectives described above.
-
-
 Students should be able to put the steps of invention process (IP) in the correct order. 
 1. Identify the Problem (IP)
 2. Brainstorm Solutions (IP)
@@ -61,12 +55,13 @@ Students should be able to put the steps of invention process (IP) in the correc
 4. Build, Test and Evaluate, and Redesign Solution (IP)
 5. Share Solution (IP)
 
-Next, students should be able to put the steps of a made-up app (APP) in the correct order so that they match the steps of the invention process.
-1. You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
-2. Think of various ways the school cafeteria could share its list of ingredients.(App)
-3. Make an outline of how the cafeteria should publish its ingredients, costs involved, and how it helps students. (App)
-4. Sketch or build a prototype; seek out feedback; make necessary changes. (App)
-5. Post your design on social media. (App)
+
+### Assessment
+
+Describe how you plan to assess the learning objectives described above.
+
+
+
 
 
 
