@@ -1,8 +1,11 @@
 # Impacts on Society
 
 (Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course)
+
 **Apps That Help Others and Build Empathy**
+
 **Grade Level:** 9 - 12
+
 **Description:**
 In this lesson, students will watch videos, read articles, and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
 For the assessment, students will invent an app that helps someone in their school or community and raises empathy for others.
