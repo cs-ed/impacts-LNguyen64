@@ -33,7 +33,7 @@ Have students write brief responses to the following questions. Have students sh
 3. Do you use any apps that make your life easier?
 4. Can you think of an app that raises your awareness around important issues in your community? An app that improves people’s lives and builds empathy?
 
-Have students watch this video [Ethan Harris]https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/ and have them write brief responses to these questions:
+Have students watch this video [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/) and have them write brief responses to these questions:
 1. What specific challenges does Ethan deal with his daily life?
 2. How does Ethan deal with these challenges and help others with cystic fibrosis?
 3. In what ways does Ethan show empathy for others?
