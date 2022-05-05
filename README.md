@@ -25,6 +25,7 @@ Describe the learning objectives for the class that relate to social impacts. Co
 (Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?)
 
 **Activate Prior Knowledge**
+
 Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009, in what we would now consider the early days of app technology. Since then, apps have become an everyday part of life. 
 Have students write brief responses to the following questions. Have students share their responses. Write their responses on the board. 
 1. What apps do you use? 
