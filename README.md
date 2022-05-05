@@ -46,9 +46,10 @@ Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc) After wa
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
 **Invention Process: Turn Your Idea into Reality**
-Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
 
-Students should be able to put the steps of invention process (IP) in the correct order. 
+Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
+and jot down notes of the five steps of the invention process
+
 1. Identify the Problem (IP)
 2. Brainstorm Solutions (IP)
 3. Invent a Solution (IP)
@@ -59,13 +60,10 @@ Students should be able to put the steps of invention process (IP) in the correc
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
+Students create an app
 
 
-
-
-
-
-Students will create an app (no coding necessary) using the [invention process.](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
+Students will create an app (no coding necessary)
 
 
 
