@@ -27,7 +27,7 @@ Describe the learning objectives for the class that relate to social impacts. Co
 **Activate Prior Knowledge**
 
 Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009, in what we would now consider the early days of app technology. Since then, apps have become an everyday part of life. 
-Have students write brief responses to the following questions. Have students share their responses. Write their responses on the board. 
+Have students write brief responses to the following questions. Share with their table partner before share with the class.
 1. What apps do you use? 
 2. What purpose do they serve? 
 3. Do you use any apps that make your life easier?
@@ -35,22 +35,35 @@ Have students write brief responses to the following questions. Have students sh
 
 **How Empathy Leads to Innovation**
 
-Have students watch this video [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/) and have them write brief responses to these questions. Share with their partner before share with the class.
+Show video 1: [Ethan Harris.](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/)
+After watching the video, have student write brief responses to the following questions. Share with their table partner before sharing with the class. 
 1. What specific challenges does Ethan deal with his daily life?
 2. How does Ethan deal with these challenges and help others with cystic fibrosis?
 3. In what ways does Ethan show empathy for others?
 
-
-Have students watch this video to learn more about why [Emma Yang](https://www.youtube.com/watch?v=7FX9kZigpjc) created the app and how it would help people with Alzheimer’s. After watching, have students write brief responses to the following questions. Share with their partner before share with the class.
+Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc) After watching, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
 **Invention Process: Turn Your Idea into Reality**
+Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
 
 
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
+Students should be able to put the steps of Invention Process in the correct order
+1. Identify the Problem (IP)
+2. Brainstorm Solutions (IP)
+3. Invent a Solution (IP)
+4. Build, Test and Evaluate, and Redesign Solution (IP)
+5. Share Solution (IP)
+
+Students should be able to put the steps for Building App in the correct order
+1. You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
+2. Think of various ways the school cafeteria could share its list of ingredients.(App)
+3. 
+
 
 Students will create an app (no coding necessary) using the [invention process.](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
 
