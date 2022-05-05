@@ -41,7 +41,7 @@ After watching the video, have student write brief responses to the following qu
 2. How does Ethan deal with these challenges and help others with cystic fibrosis?
 3. In what ways does Ethan show empathy for others?
 
-Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc) After watching, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
+Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc) After watching the video, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
