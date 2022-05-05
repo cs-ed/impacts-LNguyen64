@@ -7,7 +7,7 @@
 **Grade Level:** 9 - 12
 
 **Description:**
-In this lesson, students will watch videos, read articles, and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
+In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
 For the assessment, students will invent an app that helps someone in their school or community and raises empathy for others.
 
 ## Plan
@@ -52,17 +52,22 @@ Have students watch the [Invention Process](https://contrib.pbslearningmedia.org
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
-Students should be able to put the steps of Invention Process in the correct order
+
+
+Students should be able to put the steps of invention process (IP) in the correct order. 
 1. Identify the Problem (IP)
 2. Brainstorm Solutions (IP)
 3. Invent a Solution (IP)
 4. Build, Test and Evaluate, and Redesign Solution (IP)
 5. Share Solution (IP)
 
-Students should be able to put the steps for Building App in the correct order
+Next, students should be able to put the steps of a made-up app (APP) in the correct order so that they match the steps of the invention process.
 1. You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
 2. Think of various ways the school cafeteria could share its list of ingredients.(App)
-3. 
+3. Make an outline of how the cafeteria should publish its ingredients, costs involved, and how it helps students. (App)
+4. Sketch or build a prototype; seek out feedback; make necessary changes. (App)
+5. Post your design on social media. (App)
+
 
 
 Students will create an app (no coding necessary) using the [invention process.](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
