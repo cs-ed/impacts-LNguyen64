@@ -8,7 +8,6 @@
 
 **Description:**
 In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
-For the assessment, students will invent an app that helps someone in their school or community and raises empathy for others.
 
 ## Plan
 
@@ -71,5 +70,6 @@ Students will create an app (no coding necessary)
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
 
+App development is big business and new apps by aspiring entrepreneurs and inventors continue to come out each day. Some of the best apps involve ways to improve peoples's lives. They can also build empathy. I hope that after watching these videos, students would have a better understanding and empathy for people with 
 
 
