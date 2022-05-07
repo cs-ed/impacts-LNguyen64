@@ -35,7 +35,7 @@ Have students write brief responses to the following questions. Share with their
 
 **How Empathy Leads to Innovation**
 
-Show video 1: [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). 
+**Video 1:** [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). 
 Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability.
 After watching the video, have student write brief responses to the following questions. Share with their table partner before sharing with the class. 
 
@@ -45,7 +45,7 @@ After watching the video, have student write brief responses to the following qu
 
 3. In what ways does Ethan show empathy for others?
 
-Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). 
+**Video 2:** [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). 
 Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers. Alzheimer's is a neurological disease that affects a person’s memory and decreases one’s ability to carry out daily functions.
 
 After watching the video, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
@@ -60,31 +60,40 @@ Have them take notes of the five steps in the invention process
 
 **Invention Process**
 
-**Step 1:** Identify the Problem (IP)
-**Step 2:** Brainstorm Solutions (IP)
-**Step 3:** Invent a Solution (IP)
-**Step 4:** Build, Test and Evaluate, and Redesign Solution (IP)
-**Step 5:** Share Solution (IP)
+**Step 1:** Identify the Problem
 
-Also show them an example of a made-up app (APP) where steps for building App match the steps of the invention process
+**Step 2:** Brainstorm Solutions
 
-1. You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
+**Step 3:** Invent a Solution
 
-2. Think of various ways the school cafeteria could share its list of ingredients.(App)
+**Step 4:** Build, Test and Evaluate, and Redesign Solution
 
-3. Make an outline of how the cafeteria should publish its ingredients, costs involved, and how it helps students. (App)
+**Step 5:** Share Solution
 
-4. Sketch or build a prototype; seek out feedback; make necessary changes. (App)
+Also show them an example of a made-up App, where steps for building App match the steps of the invention process
 
-5. Post your design on social media. (App)
+**Steps for Building APP**
 
-Show video 3: [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). Tell students to listen to Ryan's story and reflect on how he has inspired thosed around him. After watching, have students answer these questions:
+**Step 1:** You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
+
+**Step 2:** Think of various ways the school cafeteria could share its list of ingredients.(App)
+
+**Step 3:** Make an outline of how the cafeteria should publish its ingredients, costs involved, and how it helps students. (App)
+
+**Step 4:** Sketch or build a prototype; seek out feedback; make necessary changes. (App)
+
+**Step 5:** Post your design on social media. (App)
+
+**Video 3:** [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). 
+
+Tell students to listen to Ryan's story and reflect on how he has inspired thosed around him. After watching, have students answer these questions:
 
 1. What are three ways that Ryan has confronted challenges?
 
 2. What are three ways that Ryan has inspired others?
 
-Show video 4: [Archer Hadley](https://www.youtube.com/watch?v=Kh1a_juMMoo). 
+**Video 4:** [Archer Hadley](https://www.youtube.com/watch?v=Kh1a_juMMoo). 
+
 Tell students, as they watch the video learn more about Archer’s efforts to make his high school more accessible for people living with disabilities. Think about how the wheelchair challenge raises empathy for those with disabilities. 
 
 ### Assessment
