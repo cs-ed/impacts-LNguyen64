@@ -1,7 +1,5 @@
 # Impacts on Society
 
-(Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course)
-
 **Apps That Help Others and Build Empathy**
 
 **Grade Level:** 9 - 12
@@ -13,15 +11,11 @@ In this lesson, students will watch videos and engage in activities related to s
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
-
 - Students learn how apps can improve people's lives and raise empathy.
 - Students explore the connection between innovation and empathy
-- Students create an app using the invention process. 
+- Students create an app(no coding necessary) using the invention process. 
 
 ### Learning Activities
-
-(Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?)
 
 **Activate Prior Knowledge**
 
@@ -34,27 +28,39 @@ Have students write brief responses to the following questions. Share with their
 
 **How Empathy Leads to Innovation**
 
-Show video 1: [Ethan Harris.](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/)
+Show video 1: [Ethan Harris.](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability.
 After watching the video, have student write brief responses to the following questions. Share with their table partner before sharing with the class. 
 1. What specific challenges does Ethan deal with his daily life?
 2. How does Ethan deal with these challenges and help others with cystic fibrosis?
 3. In what ways does Ethan show empathy for others?
 
-Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc) After watching the video, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
+Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers. Alzheimer's is a neurological disease that affects a person’s memory and decreases one’s ability to carry out daily functions.
+After watching the video, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
 **Invention Process: Turn Your Idea into Reality**
-
-Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html)
-and jot down notes of the five steps of the invention process
-
+Ask students if they know what is the invention process?
+To prepare students for their final project, have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html). 
+Have them take notes of the five steps in the invention process
+Steps of Invention Process:
 1. Identify the Problem (IP)
 2. Brainstorm Solutions (IP)
 3. Invent a Solution (IP)
 4. Build, Test and Evaluate, and Redesign Solution (IP)
 5. Share Solution (IP)
+Also show them an example of a made-up app (APP) where steps for building App match the steps of the invention process
+1. You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
+2. Think of various ways the school cafeteria could share its list of ingredients.(App)
+3. Make an outline of how the cafeteria should publish its ingredients, costs involved, and how it helps students. (App)
+4. Sketch or build a prototype; seek out feedback; make necessary changes. (App)
+5. Post your design on social media. (App)
 
+Show video 3: [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). Tell students to listen to Ryan's story and reflect on how he has inspired thosed around him. After watching, have students answer these questions:
+1. What are three ways that Ryan has confronted challenges?
+2. What are three ways that Ryan has inspired others?
+
+Th
 
 ### Assessment
 
