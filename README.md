@@ -9,6 +9,8 @@
 **Description:**
 In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
 
+**References** [PBS Learning Media](https://ca.pbslearningmedia.org/resource/ilnewsh18-sci-ilinvention/invent-apps-that-help-others-and-build-empathy/)
+
 ## Plan
 
 ### Learning Objectives
