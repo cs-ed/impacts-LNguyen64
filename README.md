@@ -22,6 +22,7 @@ In this lesson, students will watch videos and engage in activities related to s
 **Activate Prior Knowledge**
 
 Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009. Since then, apps have become an everyday part of life. 
+
 Have students write brief responses to the following questions. Share with their table partner before share with the class.
 1. What apps do you use? 
 2. What purpose do they serve? 
