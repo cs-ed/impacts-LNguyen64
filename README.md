@@ -55,14 +55,16 @@ After watching the video, have students write brief responses to the following q
 **Invention Process: Turn Your Idea into Reality**
 
 Ask students if they know what is the invention process?
-To prepare students for their final project, have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html). 
+Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html) to prepare for their final project.
 Have them take notes of the five steps in the invention process
-Steps of Invention Process:
-1. Identify the Problem (IP)
-2. Brainstorm Solutions (IP)
-3. Invent a Solution (IP)
-4. Build, Test and Evaluate, and Redesign Solution (IP)
-5. Share Solution (IP)
+
+**Invention Process**
+
+**Step 1:** Identify the Problem (IP)
+**Step 2:** Brainstorm Solutions (IP)
+**Step 3:** Invent a Solution (IP)
+**Step 4:** Build, Test and Evaluate, and Redesign Solution (IP)
+**Step 5:** Share Solution (IP)
 
 Also show them an example of a made-up app (APP) where steps for building App match the steps of the invention process
 
