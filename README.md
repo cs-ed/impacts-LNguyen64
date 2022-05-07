@@ -35,7 +35,8 @@ Have students write brief responses to the following questions. Share with their
 
 **How Empathy Leads to Innovation**
 
-Show video 1: [Ethan Harris.](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability.
+Show video 1: [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). 
+Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability.
 After watching the video, have student write brief responses to the following questions. Share with their table partner before sharing with the class. 
 
 1. What specific challenges does Ethan deal with his daily life?
@@ -44,7 +45,8 @@ After watching the video, have student write brief responses to the following qu
 
 3. In what ways does Ethan show empathy for others?
 
-Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers. Alzheimer's is a neurological disease that affects a person’s memory and decreases one’s ability to carry out daily functions.
+Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). 
+Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers. Alzheimer's is a neurological disease that affects a person’s memory and decreases one’s ability to carry out daily functions.
 
 After watching the video, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
