@@ -45,7 +45,7 @@ Have students write brief responses to the following questions. Share with their
 Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability.
 After watching the video, have student write brief responses to the following questions. Share with their partner before sharing with the class. 
 
-1. What specific challenges does Ethan deal with his daily life?
+1. What specific challenges does Ethan deal with in his daily life?
 
 2. How does Ethan deal with these challenges and help others with cystic fibrosis?
 
