@@ -3,6 +3,7 @@
 **Apps That Help Others and Build Empathy**
 
 **Grade Level:** 9 - 12
+**Duration:** 3 - 5 days
 
 **Description:**
 In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
@@ -13,13 +14,13 @@ In this lesson, students will watch videos and engage in activities related to s
 
 - Students learn how apps can improve people's lives and raise empathy.
 - Students explore the connection between innovation and empathy
-- Students create an app(no coding necessary) using the invention process. 
+- Students create an app (no coding necessary) using the invention process. 
 
 ### Learning Activities
 
 **Activate Prior Knowledge**
 
-Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009, in what we would now consider the early days of app technology. Since then, apps have become an everyday part of life. 
+Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009. Since then, apps have become an everyday part of life. 
 Have students write brief responses to the following questions. Share with their table partner before share with the class.
 1. What apps do you use? 
 2. What purpose do they serve? 
@@ -49,6 +50,7 @@ Steps of Invention Process:
 3. Invent a Solution (IP)
 4. Build, Test and Evaluate, and Redesign Solution (IP)
 5. Share Solution (IP)
+
 Also show them an example of a made-up app (APP) where steps for building App match the steps of the invention process
 1. You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
 2. Think of various ways the school cafeteria could share its list of ingredients.(App)
@@ -60,17 +62,21 @@ Show video 3: [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI)
 1. What are three ways that Ryan has confronted challenges?
 2. What are three ways that Ryan has inspired others?
 
-Th
+Show video 4: [Archer Hadley](https://www.youtube.com/watch?v=Kh1a_juMMoo). Tell students, as they watch the video learn more about Archer’s efforts to make his high school more accessible for people living with disabilities. Think about how the wheelchair challenge raises empathy for those with disabilities. 
 
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
 Students create an app
-
-
-Students will create an app (no coding necessary)
-
-
+Have students work in groups of 2 or 3 (heterogeneous)
+Tell students to think about Ryan and Archer's stories in mind, think about a problem in their community or school that affects people living with a disability or illness. 
+Students will create an app (no coding necessary) by responding to questions and prompts related to steps in the design process.
+Invention Process
+**1. Identify a Problem:** In your school or community, what poses a problem for those living with a disability or illness?
+**2. Brainstorm:** Write down a few ideas that pop into yur head, even outside-the-box ideas, which could potentially solve the problem.
+**3. Create:** From the list of ideas you generated, which idea is the most realistic to accomplish?
+**4. Build, Test & Evaluate, and Redesign:** What is one strategy you learned from the stories featured in this lesson that might help you come up with your solution?
+**Share Your Invention:** With whom would you like to share your solution? Think of both individuals and groups of people
 
 ### Outcomes
 
