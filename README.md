@@ -44,6 +44,7 @@ After watching the video, have students write brief responses to the following q
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
 **Invention Process: Turn Your Idea into Reality**
+
 Ask students if they know what is the invention process?
 To prepare students for their final project, have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html). 
 Have them take notes of the five steps in the invention process
