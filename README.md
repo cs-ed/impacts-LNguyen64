@@ -2,27 +2,29 @@
 
 **Apps That Help Others and Build Empathy**
 
-**Grade Level:** 6 - 8 or 9 - 12.
+**Grade Level:** 6 - 12.
 
-**Duration:** 3 - 7 days
+**Duration:** 5 - 7 days
 
 **Description:**
 In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
 
 **Notes**
 
-Students should be working in pairs throughout the lesson, and they should keep an individual journal where you can monitor their progress and understanding. 
+Students should be working in pairs throughout the lesson, and they should keep an individual journal where you can monitor their progress and check for understanding.
 
 ## Plan
 
-### Learning Objectives
+### Learning Objectives**
 
 - Students learn how apps can improve people's lives and raise empathy.
 - Students explore the connection between innovation and empathy
-- Students create an app (no coding necessary) using the invention process. 
+- Students invent an app using the invention process. 
+- Students create a 30-second “elevator pitch” to persuade someone to invest money in their app.
 
 ### Learning Activities
 
+**Day 1:**
 **Activate Prior Knowledge**
 
 Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009. Since then, apps have become an everyday part of life. 
@@ -37,7 +39,6 @@ Have students write brief responses to the following questions. Share with their
 
 4. Can you think of an app that raises your awareness around important issues in your community? An app that improves people’s lives and builds empathy?
 
-**Day 1:**
 **How Empathy Leads to Innovation**
 
 **Video 1:** [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). 
@@ -61,9 +62,9 @@ After watching the video, have students write brief responses to the following q
 **Invention Process: Turn Your Idea into Reality**
 
 Ask students if they know what is the invention process?
-Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html) to prepare for their final project.
+Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html).
 
-Have them take notes of the five steps in the invention process. Review common note-taking techniques with student. 
+Have students take notes of the five steps in the invention process. Review common note-taking techniques with student. 
 Notes can be words, phrases, or sentences and should represent what students think are the most important aspects of what they see and hear.
 
 **Invention Process**
@@ -78,7 +79,8 @@ Notes can be words, phrases, or sentences and should represent what students thi
 
 **Step 5:** Share Solution
 
-Also show them an example of a made-up App, where steps for building App match the steps of the invention process
+To show the connection between the steps in Invention Process and steps for Building App. 
+Provide an example of a made-up App, where steps for building App match the steps of the invention process
 
 **Steps for Building APP**
 
@@ -92,7 +94,7 @@ Also show them an example of a made-up App, where steps for building App match t
 
 **Step 5:** Post your design on social media.
 
-**DAY 3:**
+**DAY 3 - 4:**
 
 **Video 3:** [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). 
 
@@ -106,13 +108,6 @@ Tell students to listen to Ryan's story and reflect on how he has inspired those
 
 Tell students, as they watch the video learn more about Archer’s efforts to make his high school more accessible for people living with disabilities. Think about how the wheelchair challenge raises empathy for those with disabilities. 
 
-
-### Assessment
-
-Describe how you plan to assess the learning objectives described above.
-Students create an app
-
-**Day 4:**
 
 Tell students to think about Ryan and Archer's stories in mind, think about a problem in their community or school that affects people living with a disability or illness. 
 
@@ -129,6 +124,15 @@ Invention Process
 **4. Build, Test & Evaluate, and Redesign:** What is one strategy you learned from the stories featured in this lesson that might help you come up with your solution?
 
 **Share Your Invention:** With whom would you like to share your solution? Think of both individuals and groups of people
+
+### Assessment
+
+Describe how you plan to assess the learning objectives described above.
+Students create an app
+
+**Day 5:**
+
+
 
 ### Outcomes
 
