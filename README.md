@@ -2,14 +2,16 @@
 
 **Apps That Help Others and Build Empathy**
 
-**Grade Level:** 9 - 12
+**Grade Level:** 6 - 8 or 9 - 12.
 
-**Duration:** 3 - 5 days
+**Duration:** 3 - 7 days
 
 **Description:**
 In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
 
-**References** [PBS Learning Media](https://ca.pbslearningmedia.org/resource/ilnewsh18-sci-ilinvention/invent-apps-that-help-others-and-build-empathy/)
+**Notes**
+
+Students should be working in pairs throughout the lesson, and they should keep an individual journal where you can monitor their progress and understanding. 
 
 ## Plan
 
@@ -25,7 +27,7 @@ In this lesson, students will watch videos and engage in activities related to s
 
 Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009. Since then, apps have become an everyday part of life. 
 
-Have students write brief responses to the following questions. Share with their table partner before share with the class.
+Have students write brief responses to the following questions. Share with their partner before sharing with the class.
 
 1. What apps do you use? 
 
@@ -35,11 +37,12 @@ Have students write brief responses to the following questions. Share with their
 
 4. Can you think of an app that raises your awareness around important issues in your community? An app that improves people’s lives and builds empathy?
 
+**Day 1:**
 **How Empathy Leads to Innovation**
 
 **Video 1:** [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). 
 Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability.
-After watching the video, have student write brief responses to the following questions. Share with their table partner before sharing with the class. 
+After watching the video, have student write brief responses to the following questions. Share with their partner before sharing with the class. 
 
 1. What specific challenges does Ethan deal with his daily life?
 
@@ -50,15 +53,18 @@ After watching the video, have student write brief responses to the following qu
 **Video 2:** [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). 
 Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers. Alzheimer's is a neurological disease that affects a person’s memory and decreases one’s ability to carry out daily functions.
 
-After watching the video, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
+After watching the video, have students write brief responses to the following questions. Share with their partner before sharing with the class.
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
+**Day 2:**
 **Invention Process: Turn Your Idea into Reality**
 
 Ask students if they know what is the invention process?
 Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html) to prepare for their final project.
-Have them take notes of the five steps in the invention process
+
+Have them take notes of the five steps in the invention process. Review common note-taking techniques with student. 
+Notes can be words, phrases, or sentences and should represent what students think are the most important aspects of what they see and hear.
 
 **Invention Process**
 
@@ -76,15 +82,17 @@ Also show them an example of a made-up App, where steps for building App match t
 
 **Steps for Building APP**
 
-**Step 1:** You asked the cafeteria for a list of ingredients they use but were told they don’t post it. (App)
+**Step 1:** You asked the cafeteria for a list of ingredients they use but were told they don’t post it.
 
-**Step 2:** Think of various ways the school cafeteria could share its list of ingredients.(App)
+**Step 2:** Think of various ways the school cafeteria could share its list of ingredients.
 
-**Step 3:** Make an outline of how the cafeteria should publish its ingredients, costs involved, and how it helps students. (App)
+**Step 3:** Make an outline of how the cafeteria should publish its ingredients, costs involved, and how it helps students.
 
-**Step 4:** Sketch or build a prototype; seek out feedback; make necessary changes. (App)
+**Step 4:** Sketch or build a prototype; seek out feedback; make necessary changes.
 
-**Step 5:** Post your design on social media. (App)
+**Step 5:** Post your design on social media.
+
+**DAY 3:**
 
 **Video 3:** [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). 
 
@@ -98,12 +106,13 @@ Tell students to listen to Ryan's story and reflect on how he has inspired those
 
 Tell students, as they watch the video learn more about Archer’s efforts to make his high school more accessible for people living with disabilities. Think about how the wheelchair challenge raises empathy for those with disabilities. 
 
+
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
 Students create an app
 
-Have students work in groups of 2 or 3.
+**Day 4:**
 
 Tell students to think about Ryan and Archer's stories in mind, think about a problem in their community or school that affects people living with a disability or illness. 
 
@@ -128,3 +137,7 @@ Describe how your plan will facilitate diversity/equity/inclusion and help broad
 App development is big business and new apps by aspiring entrepreneurs and inventors continue to come out each day. Some of the best apps involve ways to improve peoples's lives. They can also build empathy. I hope that after watching these videos, students would have a better understanding and empathy for people with 
 
 
+
+
+
+[Reference - PBS Learning Media](https://ca.pbslearningmedia.org/resource/ilnewsh18-sci-ilinvention/invent-apps-that-help-others-and-build-empathy/)
