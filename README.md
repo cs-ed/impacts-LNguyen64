@@ -1,6 +1,6 @@
 # Impacts on Society
 
-**Apps That Help Others and Build Empathy**
+**Name:** Apps That Help Others and Build Empathy
 
 **Grade Level:** 6 - 12.
 
