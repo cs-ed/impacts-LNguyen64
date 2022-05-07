@@ -38,6 +38,7 @@ After watching the video, have student write brief responses to the following qu
 3. In what ways does Ethan show empathy for others?
 
 Show video 2: [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers. Alzheimer's is a neurological disease that affects a person’s memory and decreases one’s ability to carry out daily functions.
+
 After watching the video, have students write brief responses to the following questions. Share with their table partner before sharing with the class.
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
@@ -70,9 +71,13 @@ Show video 4: [Archer Hadley](https://www.youtube.com/watch?v=Kh1a_juMMoo). Tell
 
 Describe how you plan to assess the learning objectives described above.
 Students create an app
+
 Have students work in groups of 2 or 3 (heterogeneous)
+
 Tell students to think about Ryan and Archer's stories in mind, think about a problem in their community or school that affects people living with a disability or illness. 
+
 Students will create an app (no coding necessary) by responding to questions and prompts related to steps in the design process.
+
 Invention Process
 **1. Identify a Problem:** In your school or community, what poses a problem for those living with a disability or illness?
 **2. Brainstorm:** Write down a few ideas that pop into yur head, even outside-the-box ideas, which could potentially solve the problem.
