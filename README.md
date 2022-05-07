@@ -3,6 +3,7 @@
 **Apps That Help Others and Build Empathy**
 
 **Grade Level:** 9 - 12
+
 **Duration:** 3 - 5 days
 
 **Description:**
