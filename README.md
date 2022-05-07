@@ -77,17 +77,20 @@ Also show them an example of a made-up app (APP) where steps for building App ma
 5. Post your design on social media. (App)
 
 Show video 3: [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). Tell students to listen to Ryan's story and reflect on how he has inspired thosed around him. After watching, have students answer these questions:
+
 1. What are three ways that Ryan has confronted challenges?
+
 2. What are three ways that Ryan has inspired others?
 
-Show video 4: [Archer Hadley](https://www.youtube.com/watch?v=Kh1a_juMMoo). Tell students, as they watch the video learn more about Archer’s efforts to make his high school more accessible for people living with disabilities. Think about how the wheelchair challenge raises empathy for those with disabilities. 
+Show video 4: [Archer Hadley](https://www.youtube.com/watch?v=Kh1a_juMMoo). 
+Tell students, as they watch the video learn more about Archer’s efforts to make his high school more accessible for people living with disabilities. Think about how the wheelchair challenge raises empathy for those with disabilities. 
 
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
 Students create an app
 
-Have students work in groups of 2 or 3 (heterogeneous)
+Have students work in groups of 2 or 3.
 
 Tell students to think about Ryan and Archer's stories in mind, think about a problem in their community or school that affects people living with a disability or illness. 
 
