@@ -131,6 +131,7 @@ Second, have students write and practice their pitch in front of a classmate.
 Third, have students record their elevator pitch using Flipgrid.
 
 **Day 7: Peer Review or Reflection**
+
 You may have students do peer review or have students write their responses to the following questions:
 - What did you learn?
 - What was surprising?
