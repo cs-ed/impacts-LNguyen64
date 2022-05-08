@@ -139,4 +139,5 @@ In addition to the final assignment, the work that students do throughout the le
 
 App development is big business and new apps by aspiring entrepreneurs and inventors continue to come out each day. Some of the best apps involve ways to improve peoples's lives. They can also build empathy. I hope that after watching these videos, students would have a better understanding and empathy for people with specific disabilities and illnesses.
 
-The lesson was adapted from [Reference - PBS Learning Media](https://ca.pbslearningmedia.org/resource/ilnewsh18-sci-ilinvention/invent-apps-that-help-others-and-build-empathy/)
+### Reference
+The lesson was adapted from [PBS Learning Media](https://ca.pbslearningmedia.org/resource/ilnewsh18-sci-ilinvention/invent-apps-that-help-others-and-build-empathy/)
