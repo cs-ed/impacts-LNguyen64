@@ -4,7 +4,7 @@
 
 **Grade Level:** 9 - 12.
 
-**Duration:** 5 days
+**Duration:** 5 - 7 days
 
 **Description:**
 In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
@@ -24,7 +24,7 @@ Students should be working in pairs throughout the lesson, and they should keep 
 
 ### Learning Activities
 
-**Day 1:**
+**Day 1: How Empathy Leads to Innovation**
 
 Ask students if they have heard the slogan “There’s an app for that”? Apple coined it back in 2009. Since then, apps have become an everyday part of life. 
 
@@ -54,7 +54,7 @@ After watching the video, have students write brief responses to the following q
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
-**Day 2:**
+**Day 2: Invention Process: Turn Your Idea into Reality**
 
 Ask students if they know what is the invention process?
 Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html).
@@ -89,7 +89,7 @@ Provide an example of a made-up App, where steps for Building App match the step
 
 **Assessment:** You may want to play a matching game where they have to arrange the steps in order and match correctly the "Steps for Invention Process" with "Steps for Building App"
 
-**Days 3:**
+**Day 3: Inventing an App that Solves a Real-World Problem**
 
 **Video 3:** [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). Tell students to listen to Ryan's story and reflect on how he has inspired thosed around him. After watching, have students answer these questions. Share with their partner before sharing with the class.
 
@@ -114,12 +114,29 @@ Students will create an app (no coding necessary) by responding to questions and
 
 **Share Your Invention:** With whom would you like to share your solution? Think of both individuals and groups of people
 
-**Days 4 - 5:**
+**Days 4 - 6: Final Writing Assignment - The Elevator Pitch**
 
-Have students create an outline that will help them develop their elevator pitch. Their pitch should be 30 seconds and address the following:
+Tell students that their final assignment is to write an elevator pitch for a new app that helps solve a problem in their school/community and builds empathy.
+Explain that elevator pitch is same amount of time to explain and convince someone of a good idea as it does to ride up or down several floors in an elevator.
+
+Tell students that the pitch should take about 30–60 seconds to deliver, and they will use Flipgrid to record it. They should use engaging language that will capture their audience’s interest and convince stakeholders that their app is well worth the investment.
+
+First, have students create an outline that should address the following:
 - The main purpose of the app
 - Who your app helps
 - How your app works
+
+Second, have students write and practice their pitch in front of a classmate. 
+
+Third, have students record their elevator pitch using Flipgrid.
+
+**Day 7: Peer Review**
+
+- Praise/Question/Polish: Have the student reviewer praise the work, ask any questions he or she may have, and offer one suggestion for improvement.
+- Keep/Change/Add/Delete/Move: Ask student reviewers to pick three of these five “verbs” and give their feedback accordingly.
+- Claim/Evidence: Have student reviewers complete the following sentences:
+- -The main idea of this assignment is ___________________________.
+ - -The most compelling evidence offered in this assignment is _______________. 
 
 ### Assessment
 
