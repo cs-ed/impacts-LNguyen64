@@ -104,13 +104,13 @@ Tell students, as they watch the video learn more about Archer’s efforts to ma
 Tell students to think about Ryan and Archer's stories in mind, think about a problem in their community or school that affects people living with a disability or illness. 
 Students will create an app (no coding necessary) by responding to questions and prompts related to steps in the design process.
 
-**1. Identify a Problem:** In your school or community, what poses a problem for those living with a disability or illness?
+**Identify a Problem:** In your school or community, what poses a problem for those living with a disability or illness?
 
-**2. Brainstorm:** Write down a few ideas that pop into your head, even outside-the-box ideas, which could potentially solve the problem.
+**Brainstorm:** Write down a few ideas that pop into your head, even outside-the-box ideas, which could potentially solve the problem.
 
-**3. Create:** From the list of ideas you generated, which idea is the most realistic to accomplish?
+**Create:** From the list of ideas you generated, which idea is the most realistic to accomplish?
 
-**4. Build, Test & Evaluate, and Redesign:** What is one strategy you learned from the stories featured in this lesson that might help you come up with your solution?
+**Build, Test & Evaluate, and Redesign:** What is one strategy you learned from the stories featured in this lesson that might help you come up with your solution?
 
 **Share Your Invention:** With whom would you like to share your solution? Think of both individuals and groups of people
 
