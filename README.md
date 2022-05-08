@@ -130,13 +130,12 @@ Second, have students write and practice their pitch in front of a classmate.
 
 Third, have students record their elevator pitch using Flipgrid.
 
-**Day 7: Peer Review**
-
-- Praise/Question/Polish: Have the student reviewer praise the work, ask any questions he or she may have, and offer one suggestion for improvement.
-- Keep/Change/Add/Delete/Move: Ask student reviewers to pick three of these five “verbs” and give their feedback accordingly.
-- Claim/Evidence: Have student reviewers complete the following sentences:
-- -The main idea of this assignment is ___________________________.
- - -The most compelling evidence offered in this assignment is _______________. 
+**Day 7: Peer Review or Reflection**
+You may have students do peer review or have students write their responses to the following questions:
+- What did you learn?
+- What was surprising?
+- What questions do you still have?
+- What was the easiest for you to understand and do? What was the most difficult?
 
 ### Assessment
 
