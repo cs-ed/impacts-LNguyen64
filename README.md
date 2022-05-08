@@ -2,7 +2,7 @@
 
 **Name:** Apps That Help Others and Build Empathy
 
-**Grade Level:** 6 - 12.
+**Grade Level:** 9 - 12.
 
 **Duration:** 5 days
 
@@ -39,8 +39,7 @@ Have students write brief responses to the following questions. Share with their
 4. Can you think of an app that raises your awareness around important issues in your community? An app that improves people’s lives and builds empathy?
 
 **Video 1:** [Ethan Harris](https://studentreportinglabs.org/youth-reporting/student-hopes-to-help-those-with-same-genetic-disorder/). 
-Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability.
-After watching the video, have student write brief responses to the following questions. Share with their partner before sharing with the class. 
+Tell students that as they watch, think about the challenges Ethan faces, how his story builds empathy in others, and how he defies stereotypes of what it is like to live with a disability. After watching the video, have student write brief responses to the following questions. Share with their partner before sharing with the class. 
 
 1. What specific challenges does Ethan deal with in his daily life?
 
@@ -50,8 +49,8 @@ After watching the video, have student write brief responses to the following qu
 
 **Video 2:** [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). 
 Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers.
-
 After watching the video, have students write brief responses to the following questions. Share with their partner before sharing with the class.
+
 1. Based on what you saw in the video, what skills and qualities does Emma possess that helped her develop her app?
 2. How could an app like Timeless help Alzheimer's patients and their families connect with one another?
 
@@ -59,7 +58,6 @@ After watching the video, have students write brief responses to the following q
 
 Ask students if they know what is the invention process?
 Have students watch the [Invention Process](https://contrib.pbslearningmedia.org/WGBH/conv18/adptech12_int_idsprocess/index.html).
-
 Review common note-taking techniques with student. Have students take notes of the five steps in the Invention Process. 
 
 **Invention Process**
@@ -141,8 +139,4 @@ In addition to the final assignment, the work that students do throughout the le
 
 App development is big business and new apps by aspiring entrepreneurs and inventors continue to come out each day. Some of the best apps involve ways to improve peoples's lives. They can also build empathy. I hope that after watching these videos, students would have a better understanding and empathy for people with specific disabilities and illnesses.
 
-
-
-
-
-[Reference - PBS Learning Media](https://ca.pbslearningmedia.org/resource/ilnewsh18-sci-ilinvention/invent-apps-that-help-others-and-build-empathy/)
+The lesson was adapted from [Reference - PBS Learning Media](https://ca.pbslearningmedia.org/resource/ilnewsh18-sci-ilinvention/invent-apps-that-help-others-and-build-empathy/)
