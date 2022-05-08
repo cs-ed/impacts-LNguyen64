@@ -108,7 +108,7 @@ Students will create an app (no coding necessary) by responding to questions and
 
 **1. Identify a Problem:** In your school or community, what poses a problem for those living with a disability or illness?
 
-**2. Brainstorm:** Write down a few ideas that pop into yur head, even outside-the-box ideas, which could potentially solve the problem.
+**2. Brainstorm:** Write down a few ideas that pop into your head, even outside-the-box ideas, which could potentially solve the problem.
 
 **3. Create:** From the list of ideas you generated, which idea is the most realistic to accomplish?
 
@@ -125,9 +125,7 @@ Have students create an outline that will help them develop their elevator pitch
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
-
-The final assignment is the elevator pitch. Use the rubric for assessing the final assignment: 
+The final assignment is the elevator pitch. Use the rubric below for assessing the final assignment: 
 
 - Excellent: Provides a clear and accurate response to the question in a well-organized format that follows the instruction laid out for how to write an elevator pitch.  
 
@@ -137,13 +135,11 @@ The final assignment is the elevator pitch. Use the rubric for assessing the fin
 
 - Poor: Provides an inaccurate response to the question or fails to address the question. May include misinterpretations. Understanding of the topic is not apparent. 
 
-In addition to the final assignment, the work that students do throughout the lesson should be monitored so that it serves as part of a formative assessment. Also, student’s participation in class discussion.
+In addition to the final assignment, the work that students do throughout the lesson should be monitored so that it serves as part of a formative assessment. Student’s participation in class discussion may also be included too.
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
-
-App development is big business and new apps by aspiring entrepreneurs and inventors continue to come out each day. Some of the best apps involve ways to improve peoples's lives. They can also build empathy. I hope that after watching these videos, students would have a better understanding and empathy for people with 
+App development is big business and new apps by aspiring entrepreneurs and inventors continue to come out each day. Some of the best apps involve ways to improve peoples's lives. They can also build empathy. I hope that after watching these videos, students would have a better understanding and empathy for people with specific disabilities and illnesses.
 
 
 
