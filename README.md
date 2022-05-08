@@ -4,7 +4,7 @@
 
 **Grade Level:** 6 - 12.
 
-**Duration:** 5 - 7 days
+**Duration:** 5 days
 
 **Description:**
 In this lesson, students will watch videos and engage in activities related to specific disabilities and illnesses, the challenges people with different health conditions face, and how new technologies are helping people who have these conditions in their lives.
@@ -91,7 +91,7 @@ Provide an example of a made-up App, where steps for Building App match the step
 
 **Assessment:** You may want to play a matching game where they have to arrange the steps in order and match correctly the "Steps for Invention Process" with "Steps for Building App"
 
-**Days 3 - 4:**
+**Days 3:**
 
 **Video 3:** [Ryan Hudson-Peralta](https://www.youtube.com/watch?v=aDHXMfnjqjI). Tell students to listen to Ryan's story and reflect on how he has inspired thosed around him. After watching, have students answer these questions. Share with their partner before sharing with the class.
 
@@ -116,8 +116,9 @@ Students will create an app (no coding necessary) by responding to questions and
 
 **Share Your Invention:** With whom would you like to share your solution? Think of both individuals and groups of people
 
-**Day 5:**
-Have students create an outline that will help them develop their elevator pitch. Their pitch should address:
+**Days 4 - 5:**
+
+Have students create an outline that will help them develop their elevator pitch. Their pitch should be 30 seconds and address the following:
 - The main purpose of the app
 - Who your app helps
 - How your app works
@@ -125,11 +126,18 @@ Have students create an outline that will help them develop their elevator pitch
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
-Students create an app
 
-**Day 5:**
+The final assignment is the elevator pitch. Use the rubric for assessing the final assignment: 
 
+- Excellent: Provides a clear and accurate response to the question in a well-organized format that follows the instruction laid out for how to write an elevator pitch.  
 
+- Good: Provides an adequate response to the question in the format that follows the elevator pitch structure.  
+
+- Fair: Provides a generally accurate response to the question in the format that follows part of the elevator pitch structure.  
+
+- Poor: Provides an inaccurate response to the question or fails to address the question. May include misinterpretations. Understanding of the topic is not apparent. 
+
+In addition to the final assignment, the work that students do throughout the lesson should be monitored so that it serves as part of a formative assessment. Also, student’s participation in class discussion.
 
 ### Outcomes
 
