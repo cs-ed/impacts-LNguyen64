@@ -160,7 +160,7 @@ Use the rubric below for assessing multiple assignments:
 - Poor: Designs an invention that demonstrates an inaccurate understanding of the invention process.
 
 
-**3. Apps can improve people's lives, raise empathy and its potential impacts on society.**
+**3. Apps improve people's lives, raise empathy and potential impacts on society.**
 
 - Excellent: Demonstrates a clear understanding how apps improve people's lives, raise empathy and its potential impacts on society. 
 
