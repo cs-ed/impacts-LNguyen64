@@ -160,15 +160,15 @@ Use the rubric below for assessing multiple assignments:
 - Poor: Designs an invention that demonstrates an inaccurate understanding of the invention process.
 
 
-3. Innovation demonstrates empathy and consideration of its potential impacts.
+3. Apps can improve people's lives, raise empathy and its potential impacts on society.
 
-- Excellent: Demonstrates a clear understanding how computing impacts society.  
+- Excellent: Demonstrates a clear understanding how apps improve people's lives, raise empathy and its potential impacts on society. 
 
-- Good: Demonstrates an adequate understanding how computing impacts society.  
+- Good: Demonstrates an adequate understanding how apps improve people's lives, raise empathy and its potential impacts on society.
 
-- Fair: Demonstrates a generally accurate understanding how computing impacts society. 
+- Fair: Demonstrates a generally accurate understanding how apps improve people's lives, raise empathy and its potential impacts on society.
 
-- Poor: Demonstrates an inaccurate understanding how how computing impacts society. 
+- Poor: Demonstrates an inaccurate understanding how how apps improve people's lives, raise empathy and its potential impacts on society. 
 
 In addition to the final assignment, the work that students do throughout the lesson should be monitored so that it serves as part of a formative assessment. Student’s participation in class discussion may also be included too.
 
