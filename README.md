@@ -141,7 +141,7 @@ You may have students do peer review or have students write their responses to t
 ### Assessment
 Use the rubric below for assessing multiple assignments: 
 
-## 1. ## Elevator pitch adopts appropriate format and delivery.
+**1.** Elevator pitch adopts appropriate format and delivery.
 - Excellent: Provides a clear and accurate response to the question in a well-organized format that follows the instruction laid out for how to write an elevator pitch.  
 
 - Good: Provides an adequate response to the question in the format that follows the elevator pitch structure.  
@@ -150,7 +150,7 @@ Use the rubric below for assessing multiple assignments:
 
 - Poor: Provides an inaccurate response to the question or fails to address the question. May include misinterpretations. Understanding of the topic is not apparent. 
 
-## 2. ## Invention demonstrates innovation and applies iterative design.
+**2.** Invention demonstrates innovation and applies iterative design.
 - Excellent: Designs an invention that demonstrates a clear understanding of the invention process. 
 
 - Good: Designs an invention that demonstrates an adequate understanding of the the invention process.   
@@ -160,7 +160,7 @@ Use the rubric below for assessing multiple assignments:
 - Poor: Designs an invention that demonstrates an inaccurate understanding of the invention process.
 
 
-## 3. ## Apps can improve people's lives, raise empathy and its potential impacts on society.
+**3.** Apps can improve people's lives, raise empathy and its potential impacts on society.
 
 - Excellent: Demonstrates a clear understanding how apps improve people's lives, raise empathy and its potential impacts on society. 
 
