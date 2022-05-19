@@ -138,7 +138,7 @@ You may have students do peer review or have students write their responses to t
 - What questions do you still have?
 - What was the easiest for you to understand and do? What was the most difficult?
 
-### Assessment
+### Assessments
 Use the rubric below for assessing multiple assignments: 
 
 **1. Elevator pitch adopts appropriate format and delivery.**
