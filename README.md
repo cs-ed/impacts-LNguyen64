@@ -150,14 +150,14 @@ Use the rubric below for assessing multiple assignments:
 
 - Poor: Provides an inaccurate response to the question or fails to address the question. May include misinterpretations. Understanding of the topic is not apparent. 
 
-2. Invention demonstrates innovation and applies iterative design
-- Excellent: Designs an invention that demonstrates a clear understanding of innovation and applies iterative design. 
+2. Invention demonstrates innovation and applies iterative design.
+- Excellent: Designs an invention that demonstrates a clear understanding of the invention process. 
 
-- Good: Designs an invention that demonstrates an adequate a clear understanding of innovation and applies iterative design.   
+- Good: Designs an invention that demonstrates an adequate a clear understanding of the the invention process.   
 
-- Fair: Designs an invention that demonstrates a generally accurate a clear understanding of innovation and minimum iterative design. 
+- Fair: Designs an invention that demonstrates a generally accurate a clear understanding of the invention process. 
 
-- Poor: Designs an invention that demonstrates an inaccurate understanding of innovation and no iterative design.
+- Poor: Designs an invention that demonstrates an inaccurate understanding of the invention process.
 
 
 3. Innovation demonstrates empathy and consideration of its potential impacts.
