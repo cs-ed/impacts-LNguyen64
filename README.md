@@ -47,7 +47,7 @@ Tell students that as they watch, think about the challenges Ethan faces, how hi
 
 3. In what ways does Ethan show empathy for others?
 
-**Video 2:** [Emma Yang.](https://www.youtube.com/watch?v=7FX9kZigpjc). 
+**Video 2:** [Emma Yang](https://www.youtube.com/watch?v=7FX9kZigpjc). 
 Tell students that Emma Yang, a teenager from New York City, designed an app that would help people living with Alzheimer's disease and their caregivers.
 After watching the video, have students write brief responses to the following questions. Share with their partner before sharing with the class.
 
