@@ -153,9 +153,9 @@ Use the rubric below for assessing multiple assignments:
 2. Invention demonstrates innovation and applies iterative design.
 - Excellent: Designs an invention that demonstrates a clear understanding of the invention process. 
 
-- Good: Designs an invention that demonstrates an adequate a clear understanding of the the invention process.   
+- Good: Designs an invention that demonstrates an adequate understanding of the the invention process.   
 
-- Fair: Designs an invention that demonstrates a generally accurate a clear understanding of the invention process. 
+- Fair: Designs an invention that demonstrates a generally accurate understanding of the invention process. 
 
 - Poor: Designs an invention that demonstrates an inaccurate understanding of the invention process.
 
@@ -168,7 +168,7 @@ Use the rubric below for assessing multiple assignments:
 
 - Fair: Demonstrates a generally accurate understanding how apps improve people's lives, raise empathy and its potential impacts on society.
 
-- Poor: Demonstrates an inaccurate understanding how how apps improve people's lives, raise empathy and its potential impacts on society. 
+- Poor: Demonstrates an inaccurate understanding how apps improve people's lives, raise empathy and its potential impacts on society. 
 
 In addition to the final assignment, the work that students do throughout the lesson should be monitored so that it serves as part of a formative assessment. Student’s participation in class discussion may also be included too.
 
