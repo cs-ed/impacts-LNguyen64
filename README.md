@@ -139,9 +139,9 @@ You may have students do peer review or have students write their responses to t
 - What was the easiest for you to understand and do? What was the most difficult?
 
 ### Assessment
+Use the rubric below for assessing multiple assignments: 
 
-The final assignment is the elevator pitch. Use the rubric below for assessing the final assignment: 
-
+1. Elevator pitch adopts appropriate format and delivery
 - Excellent: Provides a clear and accurate response to the question in a well-organized format that follows the instruction laid out for how to write an elevator pitch.  
 
 - Good: Provides an adequate response to the question in the format that follows the elevator pitch structure.  
@@ -149,6 +149,26 @@ The final assignment is the elevator pitch. Use the rubric below for assessing t
 - Fair: Provides a generally accurate response to the question in the format that follows part of the elevator pitch structure.  
 
 - Poor: Provides an inaccurate response to the question or fails to address the question. May include misinterpretations. Understanding of the topic is not apparent. 
+
+2. Invention demonstrates innovation and applies iterative design
+- Excellent: Designs an invention that demonstrates a clear understanding of innovation and applies iterative design. 
+
+- Good: Designs an invention that demonstrates an adequate a clear understanding of innovation and applies iterative design.   
+
+- Fair: Designs an invention that demonstrates a generally accurate a clear understanding of innovation and minimum iterative design. 
+
+- Poor: Designs an invention that demonstrates an inaccurate understanding of innovation and no iterative design.
+
+
+3. Innovation demonstrates empathy and consideration of its potential impacts.
+
+- Excellent: Demonstrates a clear understanding how computing impacts society.  
+
+- Good: Demonstrates an adequate understanding how computing impacts society.  
+
+- Fair: Demonstrates a generally accurate understanding how computing impacts society. 
+
+- Poor: Demonstrates an inaccurate understanding how how computing impacts society. 
 
 In addition to the final assignment, the work that students do throughout the lesson should be monitored so that it serves as part of a formative assessment. Student’s participation in class discussion may also be included too.
 
